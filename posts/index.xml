@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wendi at iX</title>
-    <link>http://WendiQ.github.io/</link>
-    <description>Recent content on Wendi at iX</description>
+    <title>Posts on Wendi at iX</title>
+    <link>http://WendiQ.github.io/posts/</link>
+    <description>Recent content in Posts on Wendi at iX</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 May 2019 10:12:33 +0100</lastBuildDate>
     
-	<atom:link href="http://WendiQ.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://WendiQ.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
